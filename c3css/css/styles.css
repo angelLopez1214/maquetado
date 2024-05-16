@@ -1,0 +1,6 @@
+/*selector univesal*/
+/*selecciona todos los elementos de mi HTML*/
+/*se indica por un asterisco*/
+*{
+    font-family: Arial;
+}
