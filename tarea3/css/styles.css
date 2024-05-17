@@ -1,0 +1,10 @@
+.content{
+ width: 50vw;
+ height: 60vh;
+ padding: 2rem;
+ border: 1px solid black;
+ margin: 10vw auto;
+}
+.content2{
+    display: flex;
+}
