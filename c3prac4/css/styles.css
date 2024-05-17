@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    color: #333;
+}
+
+
+body{
+    background-color: #f5d04e;
+    display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+.card{
+width: 500px;
+border: 1px solid #333; 
+margin-top:calc((100vh - 530px) / 2 );  
+background-color: white;
+border-radius: .5rem;
+padding: 1rem;
+
+}
+.author-pic{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+.author-name{
+   font-size: .75rem; 
+}
+.card-imge{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    color: #333;
+    box-sizing: border-box;
+    width: 500px;
+ height: 300px;
+}
